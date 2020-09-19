@@ -1,0 +1,27 @@
+h1 {
+    color: blue;
+    text-align: center;
+    font-style: italic;    
+}
+
+body {
+    background-color: rgb(141, 135, 135);
+}
+
+h2 {
+    color: blue;
+    font-style: oblique;
+    text-decoration: underline;
+}
+
+p {
+    color: white;
+    background-color: blue;
+    margin: 5px 5px;
+    padding: 5px 5px;    
+}
+img {
+    border: 5px solid;      
+}
+
+/* class and id tags need to be added */
